@@ -1,14 +1,16 @@
 body {
 	font-family: Arial, Helvetica, sans-serif;
-	font-size: 13px;
+	font-size: 15px;
 }
 
 a {
 	text-decoration: none;
-	font-size: 13px;
 	color: #00009F;
 }
 
+img {
+	padding: 0px 5px 0px 0px;
+}
 
 .pg {
 	margin: 20px 144px 20px 144px;
@@ -45,11 +47,22 @@ a {
 }
 
 .sectitle {
-	font-size: 17px;
+	font-size: 18px;
 	border-bottom: 1px solid #009FFF;
 	padding: 1px 1px 2px 1px;
 }
 
 .sectext {
 	padding: 8px 0px 30px 0px;
+	line-height: 150%;
+}
+
+ul.plain-list {
+	list-style: none;
+	padding: 0px 0px 0px 20px;
+}
+
+
+ol.plain-list {
+	padding: 0px 0px 0px 20px;
 }
