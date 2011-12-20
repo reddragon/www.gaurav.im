@@ -1,0 +1,55 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+}
+
+a {
+	text-decoration: none;
+	font-size: 13px;
+	color: #00009F;
+}
+
+
+.pg {
+	margin: 20px 144px 20px 144px;
+}
+
+.pgtitle {
+	font-size: 25px;
+	padding: 1px 1px 2px 1px;
+}
+
+.pgnav {
+	margin: 0 auto;
+	padding: 5px 0px 2px 0px;
+}
+
+.pgnav ul {
+	margin: 0;
+	padding: 0 0 0 0;
+	list-style: none;
+}
+
+.pgnav li {
+	float: left;
+	padding: 0px 10px 0 0;
+}
+
+.pgnav a {
+	font-size: 14px;
+}
+
+
+.pgcontent {
+	padding: 30px 1px 1px 1px;
+}
+
+.sectitle {
+	font-size: 17px;
+	border-bottom: 1px solid #009FFF;
+	padding: 1px 1px 2px 1px;
+}
+
+.sectext {
+	padding: 8px 0px 30px 0px;
+}
